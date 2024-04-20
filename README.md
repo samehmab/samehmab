@@ -1,5 +1,3 @@
-## Data Analyst Portfolio
-
 An Excel-proficient Data Analyst passionate about transforming raw data into actionable insights. This repository showcases my projects utilizing Excel for data cleaning, analysis, and visualization ✨
 
 **Skills:**
